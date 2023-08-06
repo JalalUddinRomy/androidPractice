@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recylerview</string>
+    <string-array name="country_names">
+        <item> Jalal</item>
+        <item> Mizbah</item>
+    </string-array>
+</resources>
